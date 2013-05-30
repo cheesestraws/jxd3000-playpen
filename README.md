@@ -15,7 +15,7 @@ italicdemo
 
 Another simple demo.  This displays a message in two ancient languages from Italy: Latin and Etruscan.  Both messages say "Rob made me."
 
-![](images/italic.jpg?raw=true)
+![](img/italic.jpg?raw=true)
 
 
 ldscript
