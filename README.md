@@ -10,6 +10,14 @@ Before you do aything with this code at all, you should read and understand this
 All sorted?  Great.
 
 
+italicdemo
+----------
+
+Another simple demo.  This displays a message in two ancient languages from Italy: Latin and Etruscan.  Both messages say "Rob made me."
+
+![](images/italic.jpg?raw=true)
+
+
 ldscript
 --------
 
